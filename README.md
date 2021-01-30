@@ -27,7 +27,9 @@ Here's a great reference to help you learn the code behind Chimp - https://www.p
 - add background music, be sure to pause it when the user pauses the game (10) https://pythonprogramming.net/adding-sounds-music-pygame/
 https://freesound.org/browse/
 - add your own new feature to the game; more complex and engaging the more points (0 - 20)
-Zip ALL of the files needed to run your program and submit to Blackboard
-Also submit a separate readme.md file (create in github) that explains each of the new features you've added from the list above ALSO INCLUDE THE NUMBER OF POINTS FOR EACH ITEM
-BE SURE YOU DO NOT USE ANY ABSOLUTE FILE REFERENCES; all file references must be relative. Google this to learn more. 
 ```
+# Zip ALL of the files needed to run your program and submit to Blackboard
+
+# Also submit a separate readme.md file (create in github) that explains each of the new features you've added from the list above ALSO INCLUDE THE NUMBER OF POINTS FOR EACH ITEM
+
+# BE SURE YOU DO NOT USE ANY ABSOLUTE FILE REFERENCES; all file references must be relative. Google this to learn more. 
