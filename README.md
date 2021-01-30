@@ -1,4 +1,6 @@
 # program-game
+make changes to chimp.py in this repository
+
 ```
 This simple example is used for the line-by-line tutorial
 that comes with pygame. It is based on a 'popular' web banner.
